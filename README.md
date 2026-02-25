@@ -1,5 +1,5 @@
 # sudoku
-Solves sudoku
+Solves sudoku\
 verified using the dataset from: https://www.kaggle.com/datasets/bryanpark/sudoku
 
 # Things I learned
